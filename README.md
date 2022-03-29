@@ -34,7 +34,7 @@ Ce projet a été développé avec les technologies suivantes :
 
 
 
-## 💻 Projeto
+## 💻 Projet
 
 Formulaire simulant une plateforme de demandeur d'emploi pour dev en 4 étapes :
 - Identifiez-vous (Section pour recueillir le nom)
