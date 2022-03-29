@@ -53,7 +53,6 @@ export const Theme = ({children}: Props) => {
                     <C.Page>
                         {children}
                     </C.Page>
-                    
                 </C.Steps>
             </C.Area>
         </C.Container>
