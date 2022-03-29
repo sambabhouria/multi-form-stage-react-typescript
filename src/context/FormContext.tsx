@@ -58,7 +58,7 @@ const formReducer = (state: State, action: Action) => {
             return {...state, github: action.payload}
         default:
             return state
-        
+
     }
 
 }
